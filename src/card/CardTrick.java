@@ -91,6 +91,7 @@ public class CardTrick {
         }
 
         // add one luckcard hard code 2,clubs
+        //Code modified to practice Fetch and Merge Now
         
         Card luckyCard = new Card();
         luckyCard.setValue(2);
