@@ -92,10 +92,10 @@ public class CardTrick {
 
         // add one luckcard hard code 2,clubs
         
-//        Card luckyCard = new Card();
-//        luckyCard.setValue(2);
-//        luckyCard.setSuit("Clubs");
-//        System.out.println("Lucky card is: " + luckyCard.getSuit() + " " + luckyCard.getValue());
+        Card luckyCard = new Card();
+        luckyCard.setValue(2);
+        luckyCard.setSuit("Clubs");
+        System.out.println("Lucky card is: " + luckyCard.getSuit() + " " + luckyCard.getValue());
     }
     
 }
